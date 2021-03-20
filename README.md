@@ -6,7 +6,9 @@ Python Telegram Bot
 Total Files -
 
 1 - bot.py
+
 2 - get_data.py
+
 3 - update.py
 ---------------------------------------------------------------------------
 
