@@ -10,6 +10,7 @@ Total Files -
 2 - get_data.py
 
 3 - update.py
+
 ---------------------------------------------------------------------------
 
 on the redis-server first
