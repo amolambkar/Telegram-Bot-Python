@@ -13,7 +13,8 @@ Total Files -
 
 ---------------------------------------------------------------------------
 
-on the redis-server first
+Start the redis-server first
+
 ---------------------------------------------------------------------------
 
 In every file please enter "token of your bot" at place of <TOKEN>
